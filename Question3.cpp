@@ -46,7 +46,7 @@
 //		Count1000 = MoneyWithdraw / 1000;
 //	}
 //	cout << "Amount Successfully Withdrawn. \n";
-//	cout << "Rs. 5000 Bills: " << Count5000 << "\nRs. 1000 Bills: " << Count1000 << "\nRs. 500 Bills: " << Count500;
+//	cout << "Rs. 5000 Bills:  " << Count5000 << "\nRs. 1000 Bills:  " << Count1000 << "\nRs. 500 Bills: " << Count500;
 //
 //	return 0;
 //}
